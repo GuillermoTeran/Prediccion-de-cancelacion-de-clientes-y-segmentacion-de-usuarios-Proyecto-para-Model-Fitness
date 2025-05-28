@@ -1,4 +1,4 @@
-# Predicción de cancelación de clientes y segmentación de usuarios — Proyecto para Model Fitness
+# predicción de cancelación de clientes y segmentación de usuarios — Proyecto para Model Fitness
 Descripción del proyecto:
 
 Como parte del equipo de análisis de datos en Model Fitness, una cadena de gimnasios en proceso de transformación digital, desarrollé un modelo predictivo para identificar clientes con alto riesgo de cancelación y una segmentación de usuarios para diseñar estrategias personalizadas de retención. Este proyecto tuvo como objetivo principal reducir la tasa de rotación de clientes mediante un enfoque analítico.
